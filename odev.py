@@ -30,6 +30,8 @@ ikinciYil=mCalismaSureHesabi(220,70)
 print(birinciYil)
 print(ikinciYil)
 print("İki yıl arasındaki fark:",round(ikinciYil-birinciYil,2))
+
+
 #3.soru
 def ilkAltiFonks(yazilimGeliri,finGeliri,uSatisGeliri,calisanMaas,kiraGideri,donMaliyeti):
     ilkAltiKar=(yazilimGeliri+finGeliri+uSatisGeliri)-(calisanMaas+kiraGideri+donMaliyeti)
@@ -72,6 +74,7 @@ elif(1000<=sonAltiAy-ilkAltiAy<=5000):
 else:
     print("İşletme yeterince kârda değil")
 
+    
 #4.soru
 def ortStokHesapla(dBasiStok,dSonuStok):
     ortStok=(dBasiStok+dSonuStok)/2
