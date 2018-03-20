@@ -1,1 +1,1 @@
-# Programlama-odevi2
+Hocam 4 soruda da sıkıntı görünmüyor siz yinede kontrol edersiniz. Yarattığım fonksiyonun direk çalışması için alacağı değerleri dışardan girdim.İkinci soruda değerde çok fazla ondalık basamak olduğu için round komutunu kullandım. Umarım beğenirsiniz. İyi çalışmalar.
